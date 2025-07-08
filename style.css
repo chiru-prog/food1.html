@@ -1,0 +1,21 @@
+element.style{
+
+}
+.title{
+    text-align: center;
+    color: #555;
+    font-size: 20px;
+    margin-top: auto;
+}
+*{
+    background-color: lightblue;
+}
+h1{
+    display:block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
